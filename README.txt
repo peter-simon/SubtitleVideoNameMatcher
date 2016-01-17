@@ -1,0 +1,1 @@
+Purpose is changing downloaded subtitles' filenames to match with the related videos' filenames.
